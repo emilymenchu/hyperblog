@@ -1,4 +1,4 @@
-#hyperblog 💚
+# hyperblog 💚
 This is a incredible blog made as a challege of platzi's course of git and git hub. 😄
 > But this is also the start of my evil and malicious plan of dominating the world, you'll be surprised by how far I have gone just for the ambitious that I have, you may have already notice that my dog zury appears in the project, well she is the mastermind behind this plan. I won't tell more details.
 
