@@ -17,8 +17,6 @@ This is the Zury's story.
     exp1
 
     
-
-    
     mas1
 
     mas2
