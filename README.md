@@ -19,5 +19,7 @@ git branch
 And many others.
 
 *This was made by the extraordinary Emily
+*This also includes examples for Linux, Windows and MacOS
+*Disponible para todas las edades
 
 You can check out the course and maybe you can become part of my malicous and super evil plan by clicking [**here.**](https://platzi.com/cursos/git-github/) 
